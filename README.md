@@ -1,8 +1,5 @@
 ### Python Implementaion of Huffman Coding
 
-Explanation on YouTube video https://youtu.be/JCOph23TQTY.
-Was originally posted in blog article at https://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/
-
 Consists **compress** and **decompress** function.
 
 
